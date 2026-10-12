@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "planvortex": {
+            "type": "http",
+            "url": "https://mcp.planvortex.com/mcp"
+        }
+    }
+}

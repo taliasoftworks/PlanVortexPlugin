@@ -1,0 +1,8 @@
+# Lo que escribe cada pasada de `claude plugin eval`: informes, transcripciones y grabaciones.
+evals/results/
+
+# Ficheros de sistema: el validador del directorio bloquea el plugin si los encuentra.
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/

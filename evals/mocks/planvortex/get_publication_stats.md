@@ -1,0 +1,1 @@
+{"id_publication":"{{input.id_publication}}","social_network":"instagram","latest":{"engagement":402,"impressions":4210},"series":[{"date":"2026-09-12","metrics":{"engagement":210,"impressions":2300}},{"date":"2026-09-19","metrics":{"engagement":402,"impressions":4210}}]}

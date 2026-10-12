@@ -1,0 +1,15 @@
+{
+    "name": "planvortex",
+    "description": "The PlanVortex plugin for Claude, installable before it is listed in Anthropic's directory.",
+    "owner": {
+        "name": "Talia Softworks, S.L.",
+        "email": "contact@planvortex.com",
+        "url": "https://planvortex.com"
+    },
+    "plugins": [
+        {
+            "name": "planvortex",
+            "source": "./planvortex"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "planvortex",
+    "displayName": "PlanVortex",
+    "version": "0.1.0",
+    "description": "Schedule posts, answer comments and reviews, and report results across your social networks with PlanVortex, from a conversation with Claude.",
+    "author": {
+        "name": "Talia Softworks, S.L.",
+        "email": "contact@planvortex.com",
+        "url": "https://planvortex.com"
+    },
+    "homepage": "https://planvortex.com",
+    "repository": "https://github.com/taliasoftworks/PlanVortexPlugin",
+    "license": "MIT",
+    "keywords": ["social-media", "scheduling", "comments", "reviews", "analytics", "planvortex"]
+}
