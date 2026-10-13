@@ -9,7 +9,7 @@
         "url": "https://planvortex.com"
     },
     "homepage": "https://planvortex.com",
-    "privacyPolicyUrl": "https://planvortex.com/privacy",
+    "privacyPolicyUrl": "https://planvortex.com/en/privacy",
     "repository": "https://github.com/taliasoftworks/PlanVortexPlugin",
     "license": "MIT",
     "keywords": ["social-media", "scheduling", "comments", "reviews", "analytics", "planvortex"]

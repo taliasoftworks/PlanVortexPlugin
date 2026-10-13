@@ -30,7 +30,7 @@ The plugin is made of text instructions for Claude and one connector. It runs no
 
 When you connect, you sign in with your PlanVortex account and approve what Claude may do: see your organizations, accounts, posts, statistics, comments and messages, and create and schedule posts, reply to and hide comments, and send messages on your behalf. Claude can only reach what your role in PlanVortex lets you reach.
 
-What travels to PlanVortex is what Claude asks for on your behalf: the text and dates of posts, links to images and videos, and the text of replies. PlanVortex publishes to the social networks you connected and sends back your posts, statistics, comments and messages. Comments, reviews and messages include the names and text of the people who wrote them, and they reach Claude because you connected it. How PlanVortex handles that data is described in its [privacy policy](https://planvortex.com/privacy).
+What travels to PlanVortex is what Claude asks for on your behalf: the text and dates of posts, links to images and videos, and the text of replies. PlanVortex publishes to the social networks you connected and sends back your posts, statistics, comments and messages. Comments, reviews and messages include the names and text of the people who wrote them, and they reach Claude because you connected it. How PlanVortex handles that data is described in its [privacy policy](https://planvortex.com/en/privacy).
 
 To take the access away, remove the PlanVortex connector in Claude (Customize, Connectors).
 
