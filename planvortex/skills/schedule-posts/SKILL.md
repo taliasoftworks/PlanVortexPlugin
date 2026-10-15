@@ -33,6 +33,8 @@ Call `get_social_limits` every time and write each version inside its network's 
 
 Pinterest is different from every other network. Each pin goes to a board: call `list_destinations` with the Pinterest account and pass the board's id (never its name) as `destination_id`. The URL the pin should open goes in `link`, not in the text. The pin's `title` and its description (`text`) have separate limits. If you are unsure what a network supports, `get_social_capabilities` says.
 
+TikTok needs the user's own choices, with nothing picked for them: who can see the post (`visibility`, among the options their account allows), whether people can comment, Duet or Stitch (`interactions`), and whether it is commercial content (`commercial_content`: their own brand, or a paid partnership, which cannot be private). If you do not have them, call `create_publication` without them: it answers with what that account allows. Ask the user, tell them that by posting they agree to TikTok's Music Usage Confirmation, and call again. On YouTube, ask whether a video is made for kids (`made_for_kids`).
+
 ## 3. Media
 
 Pass media as a public `https` URL to `upload_media`, then put the returned ids in `files`. Accepted formats: jpg, jpeg, png, gif, mp4, heic and heif.
